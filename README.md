@@ -1,2 +1,3 @@
-# My-Website
-A simple website introducing me to the world.
+# My-WebsiteA
+
+A simple website reflecting my interests and skills. 
