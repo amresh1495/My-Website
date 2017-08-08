@@ -1,2 +1,2 @@
 # My-Website
-A simple website reflcting my interests and skills :)
+A simple website reflecting my interests and skills :)
